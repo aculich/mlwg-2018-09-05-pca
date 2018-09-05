@@ -4,10 +4,9 @@ channels:
 dependencies:
   - python
   - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
   - pip:
     - nbgitpuller
-    - sphinx-gallery
-    - pandas
-    - matplotlib
-    - scipy
-    - scikit-learn
