@@ -8,5 +8,6 @@ dependencies:
   - matplotlib
   - scipy
   - scikit-learn
+  - plotly
   - pip:
     - nbgitpuller
