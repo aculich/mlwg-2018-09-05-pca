@@ -4,4 +4,7 @@ Binderized version of https://github.com/dlab-berkeley/MachineLearningWG/tree/ma
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aculich/mlwg-2018-09-05-pca/fix/python-deps?filepath=PCA-python.ipynb)
 
-
+```
+!git clone https://github.com/plotly/documentation/
+!(cd documentation && git checkout source-design-merge)
+```
